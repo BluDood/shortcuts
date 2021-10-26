@@ -1,4 +1,5 @@
 # BluDood's Shortcut Repository
+https://www.icloud.com/shortcuts/6ec24719f0664e18b714d745d9a12d9c
 ## Shortcuts
 |Name|Description|Version|Download|
 |---|---|---|---|
