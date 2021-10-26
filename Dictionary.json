@@ -70,11 +70,23 @@
         "0.1": {
             "Changes": [
                 "Initial Release"
+            ],
+            "Added": [
+                "None"
+            ],
+            "Removed": [
+                "None"
             ]
         },
         "0.2": {
+            "Changes": [
+                "None"
+            ],
             "Added": [
                 "Bug Reporting"
+            ],
+            "Removed": [
+                "None"
             ]
         },
         "0.3": {
@@ -83,6 +95,9 @@
             ],
             "Added": [
                 "Older Versions Links"
+            ],
+            "Removed": [
+                "None"
             ]
         },
         "0.4": {
@@ -92,11 +107,20 @@
             "Added": [
                 "Changelogs + Changelog Viewing",
                 "Downgrading"
+            ],
+            "Removed": [
+                "None"
             ]
         },
         "0.5": {
+            "Changes": [
+                "None"
+            ],
             "Added": [
                 "Checks against server JSON if update is available"
+            ],
+            "Removed": [
+                "None"
             ]
         }
     },
