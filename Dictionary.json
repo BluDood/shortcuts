@@ -68,7 +68,7 @@
     },
     "Changelog": {
         "0.1": {
-            "Changes": [
+            "Changed": [
                 "Initial Release"
             ],
             "Added": [
@@ -79,7 +79,7 @@
             ]
         },
         "0.2": {
-            "Changes": [
+            "Changed": [
                 "None"
             ],
             "Added": [
@@ -90,7 +90,7 @@
             ]
         },
         "0.3": {
-            "Changes": [
+            "Changed": [
                 "Version system"
             ],
             "Added": [
@@ -101,7 +101,7 @@
             ]
         },
         "0.4": {
-            "Changes": [
+            "Changed": [
                 "Dictionary is now hosted on GitHub, for less updates and better organization"
             ],
             "Added": [
@@ -113,7 +113,7 @@
             ]
         },
         "0.5": {
-            "Changes": [
+            "Changed": [
                 "None"
             ],
             "Added": [
