@@ -4,7 +4,7 @@
     "GitHub": "https:\/\/github.com\/BluDood\/shortcuts",
     "Download": "",
     "Shortcuts": {
-        "1. 👾 Discord": {
+        "1 👾 Discord": {
             "⏳ Discord Timestamp Generator": {
                 "Name": "⏳ Discord Timestamp Generator",
                 "Description": "Set the date and time, and convert it into Discord's Timestamp format. Just paste!",
@@ -12,7 +12,7 @@
                 "Download": "https:\/\/www.icloud.com\/shortcuts\/5fdfc41837914384a15f871d3e130da2"
             }
         },
-        "2. 🛠️ Utilities": {
+        "2 🛠️ Utilities": {
             "🏠 Open Springboard": {
                 "Name": "🏠 Open Springboard",
                 "Description": "A reference\/copyable shortcut, with only an \"Open Springboard\" action. This is not normally listed as an app you can open, but very useful in shortcuts.",
@@ -38,7 +38,7 @@
                 "Download": "https://www.icloud.com/shortcuts/e08cf66caa6341108cf05c04b6453ce4"
             }
         },
-        "3. ⌚ Apple Watch": {
+        "3 ⌚ Apple Watch": {
             "🌐 Open URL": {
                 "Name": "🌐 Open URL",
                 "Description": "Opens a selected URL, or custom URL, in the hidden Safari browser on Apple Watch!",
@@ -46,7 +46,7 @@
                 "Download": "https:\/\/www.icloud.com\/shortcuts\/78999b0da6ec4861bd00aeafe7a2f3c4"
             }
         },
-        "4. 🎮 Fun": {
+        "4 🎮 Fun": {
             "🤨 Random prnt.sc screenshot": {
                 "Name": "🤨 Random prnt.sc screenshot",
                 "Description": "Puts together a random string of letters and numbers, and generates a link to prnt.sc",
@@ -86,6 +86,9 @@
             ]
         },
         "0.4": {
+            "Changes": [
+                "Dictionary is now hosted on GitHub, for less updates and better organization"
+            ],
             "Added": [
                 "Changelogs + Changelog Viewing",
                 "Downgrading"
