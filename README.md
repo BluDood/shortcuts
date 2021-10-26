@@ -1,1 +1,1 @@
-# shortcuts
+# BluDood's Shortcut Repository
