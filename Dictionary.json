@@ -6,50 +6,56 @@
     "Shortcuts": {
         "👾 Discord": {
             "⏳ Discord Timestamp Generator": {
-                "Description": "Set the date and time, and convert it into Discord's Timestamp format. Just paste!",
                 "Name": "⏳ Discord Timestamp Generator",
+                "Description": "Set the date and time, and convert it into Discord's Timestamp format. Just paste!",
                 "Version": "1.0",
                 "Download": "https:\/\/www.icloud.com\/shortcuts\/5fdfc41837914384a15f871d3e130da2"
             }
         },
         "🛠️ Utilities": {
             "🏠 Open Springboard": {
-                "Description": "A reference\/copyable shortcut, with only an \"Open Springboard\" action. This is not normally listed as an app you can open, but very useful in shortcuts.",
                 "Name": "🏠 Open Springboard",
+                "Description": "A reference\/copyable shortcut, with only an \"Open Springboard\" action. This is not normally listed as an app you can open, but very useful in shortcuts.",
                 "Version": "1.0",
                 "Download": "https:\/\/www.icloud.com\/shortcuts\/7f1401f5db6941c1808207b0d7ef3f94"
             },
             "🔍 iOS Signing Checker": {
-                "Description": "Check if a certain iOS version is signed.",
                 "Name": "🔍 iOS Signing Checker",
+                "Description": "Check if a certain iOS version is signed.",
                 "Version": "1.0",
                 "Download": "https:\/\/www.icloud.com\/shortcuts\/4ea9e8517c34499384aed919cc6714e8"
             },
             "👍 Emoji to Text Translator": {
-                "Description": "Translstes inputted emoji to a text explanation of it.",
                 "Name": "👍 Emoji to Text Translator",
+                "Description": "Translstes inputted emoji to a text explanation of it.",
                 "Version": "1.0",
                 "Download": "https:\/\/www.icloud.com\/shortcuts\/8a64e3e1acc640249ccdc39df1ad2fb7"
+            },
+            "🌐 Check Internet Connection": {
+                "Name": "🌐 Check Internet Connection",
+                "Description": "Checks your internet connection, and CONTINUES the shortcut regardless of answer, unlike other methods do.",
+                "Version": "0.1",
+                "Download": "https://www.icloud.com/shortcuts/e08cf66caa6341108cf05c04b6453ce4"
             }
         },
         "⌚ Apple Watch": {
             "🌐 Open URL": {
-                "Description": "Opens a selected URL, or custom URL, in the hidden Safari browser on Apple Watch!",
                 "Name": "🌐 Open URL",
+                "Description": "Opens a selected URL, or custom URL, in the hidden Safari browser on Apple Watch!",
                 "Version": "1.0",
                 "Download": "https:\/\/www.icloud.com\/shortcuts\/78999b0da6ec4861bd00aeafe7a2f3c4"
             }
         },
         "🎮 Fun": {
             "🤨 Random prnt.sc screenshot": {
-                "Description": "Puts together a random string of letters and numbers, and generates a link to prnt.sc",
                 "Name": "🤨 Random prnt.sc screenshot",
+                "Description": "Puts together a random string of letters and numbers, and generates a link to prnt.sc",
                 "Version": "1.0",
                 "Download": "https:\/\/www.icloud.com\/shortcuts\/c11e0d38d32e4550ac21040f491e1477"
             },
             "🎄Christmas Countdown": {
-                "Description": "Shows how many days there are until December 24th!",
                 "Name": "🎄 Christmas Countdown",
+                "Description": "Shows how many days there are until December 24th!",
                 "Version": "1.0",
                 "Download": "https:\/\/www.icloud.com\/shortcuts\/f82a31384f0440428e1683ef0d73c33b"
             }
