@@ -1,15 +1,15 @@
 {
     "LatestVersion": "0.5",
-    "Website": "https:\/\/shortcuts.bludood.com",
-    "GitHub": "https:\/\/github.com\/BluDood\/shortcuts",
-    "Download": "https:\/\/www.icloud.com\/shortcuts\/7746af48366b473b9020b14af45343ce",
+    "Website": "https://shortcuts.bludood.com",
+    "GitHub": "https://github.com/BluDood/shortcuts",
+    "Download": "https://www.icloud.com/shortcuts/7746af48366b473b9020b14af45343ce",
     "Shortcuts": {
         "👾 Discord": {
             "⏳ Discord Timestamp Generator": {
                 "Name": "⏳ Discord Timestamp Generator",
                 "Description": "Set the date and time, and convert it into Discord's Timestamp format. Just paste!",
                 "Version": "1.0",
-                "Download": "https:\/\/www.icloud.com\/shortcuts\/5fdfc41837914384a15f871d3e130da2"
+                "Download": "https://www.icloud.com/shortcuts/5fdfc41837914384a15f871d3e130da2"
             }
         },
         "🛠️ Utilities": {
@@ -17,19 +17,19 @@
                 "Name": "🏠 Open Springboard",
                 "Description": "A reference\/copyable shortcut, with only an \"Open Springboard\" action. This is not normally listed as an app you can open, but very useful in shortcuts.",
                 "Version": "1.0",
-                "Download": "https:\/\/www.icloud.com\/shortcuts\/7f1401f5db6941c1808207b0d7ef3f94"
+                "Download": "https://www.icloud.com/shortcuts/7f1401f5db6941c1808207b0d7ef3f94"
             },
             "🔍 iOS Signing Checker": {
                 "Name": "🔍 iOS Signing Checker",
                 "Description": "Check if a certain iOS version is signed.",
                 "Version": "1.0",
-                "Download": "https:\/\/www.icloud.com\/shortcuts\/4ea9e8517c34499384aed919cc6714e8"
+                "Download": "https://www.icloud.com/shortcuts/4ea9e8517c34499384aed919cc6714e8"
             },
             "👍 Emoji to Text Translator": {
                 "Name": "👍 Emoji to Text Translator",
                 "Description": "Translstes inputted emoji to a text explanation of it.",
                 "Version": "1.0",
-                "Download": "https:\/\/www.icloud.com\/shortcuts\/8a64e3e1acc640249ccdc39df1ad2fb7"
+                "Download": "https://www.icloud.com/shortcuts/8a64e3e1acc640249ccdc39df1ad2fb7"
             },
             "🌐 Check Internet Connection": {
                 "Name": "🌐 Check Internet Connection",
@@ -43,7 +43,7 @@
                 "Name": "🌐 Open URL",
                 "Description": "Opens a selected URL, or custom URL, in the hidden Safari browser on Apple Watch!",
                 "Version": "1.0",
-                "Download": "https:\/\/www.icloud.com\/shortcuts\/78999b0da6ec4861bd00aeafe7a2f3c4"
+                "Download": "https://www.icloud.com/shortcuts/78999b0da6ec4861bd00aeafe7a2f3c4"
             }
         },
         "🎮 Fun": {
@@ -51,26 +51,29 @@
                 "Name": "🤨 Random prnt.sc screenshot",
                 "Description": "Puts together a random string of letters and numbers, and generates a link to prnt.sc",
                 "Version": "1.0",
-                "Download": "https:\/\/www.icloud.com\/shortcuts\/c11e0d38d32e4550ac21040f491e1477"
+                "Download": "https://www.icloud.com/shortcuts/c11e0d38d32e4550ac21040f491e1477"
             },
             "🎄Christmas Countdown": {
                 "Name": "🎄 Christmas Countdown",
                 "Description": "Shows how many days there are until December 24th!",
                 "Version": "1.0",
-                "Download": "https:\/\/www.icloud.com\/shortcuts\/f82a31384f0440428e1683ef0d73c33b"
+                "Download": "https://www.icloud.com/shortcuts/f82a31384f0440428e1683ef0d73c33b"
             }
         }
     },
     "olderVersions": {
-        "0.1": "https:\/\/www.icloud.com\/shortcuts\/fa6e2ee8ba914bfba3aeb1dc064ded2e",
-        "0.2": "https:\/\/www.icloud.com\/shortcuts\/b1832b6a6098425c9d1b46a5ce8a6c1f",
-        "0.3": "https:\/\/www.icloud.com\/shortcuts\/15a3cb1b283c483d9c073825ad6607b0",
-        "0.4": "https:\/\/www.icloud.com\/shortcuts\/7746af48366b473b9020b14af45343ce"
+        "0.1": "https://www.icloud.com/shortcuts/fa6e2ee8ba914bfba3aeb1dc064ded2e",
+        "0.2": "https://www.icloud.com/shortcuts/b1832b6a6098425c9d1b46a5ce8a6c1f",
+        "0.3": "https://www.icloud.com/shortcuts/15a3cb1b283c483d9c073825ad6607b0",
+        "0.4": "https://www.icloud.com/shortcuts/7746af48366b473b9020b14af45343ce"
     },
     "Changelog": {
         "0.1": {
+            "Notes": [
+                "Initial Release! 🎉"
+            ],
             "Changed": [
-                "Initial Release"
+                "Not listed"
             ],
             "Added": [
                 "None"
@@ -80,6 +83,9 @@
             ]
         },
         "0.2": {
+            "Notes": [
+                "Small update with Bug Reporting"
+            ],
             "Changed": [
                 "None"
             ],
@@ -91,6 +97,9 @@
             ]
         },
         "0.3": {
+            "Notes": [
+                "Not much changed, other than the versioning system."
+            ],
             "Changed": [
                 "Version system"
             ],
@@ -102,6 +111,9 @@
             ]
         },
         "0.4": {
+            "Notes": [
+                "Quit large update! The \"Dictionary\" (contains information about shortcuts, my socials, etc) is now hosted on GitHub! This will allow updates, planned for a future update. We also have changelogs, and a downgrading system if you want to do that, for whatever reason."
+            ],
             "Changed": [
                 "Dictionary is now hosted on GitHub, for less updates and better organization"
             ],
@@ -114,13 +126,31 @@
             ]
         },
         "0.5": {
+            "Notes": [
+                "Updating is here! 🎉 The shortcut auto-detects updates on run (they can be skipped), and the \"Check for Update \" button now works."
+            ],
             "Changed": [
                 "\"Get Value from Dictionary\" replaced with just parsing the value into the action"
             ],
             "Added": [
                 "Auto Updating!",
-                "Checks against server JSON if update is available",
-                "Check for Update"
+                "Check for Update",
+                "Checks against server JSON if update is available"
+            ],
+            "Removed": [
+                "None"
+            ]
+        },
+        "0.6": {
+            "Notes": [
+                "Small update with internet connection checking and updated changelogs."
+            ],
+            "Changed": [
+                "None"
+            ],
+            "Added": [
+                "Check for internet conenction",
+                "Notes added to all changelogs"
             ],
             "Removed": [
                 "None"
@@ -131,7 +161,7 @@
         "Email": "bludood@bludood.com",
         "GitHub": "BluDood",
         "Twitter": "ItsBluDood",
-        "Website": "https:\/\/bludood.com",
+        "Website": "https://bludood.com",
         "Discord": "BluDood#0001"
     }
 }
