@@ -1,8 +1,8 @@
 {
-    "LatestVersion": "0.5",
+    "LatestVersion": "0.6",
     "Website": "https://shortcuts.bludood.com",
     "GitHub": "https://github.com/BluDood/shortcuts",
-    "Download": "https://www.icloud.com/shortcuts/7746af48366b473b9020b14af45343ce",
+    "Download": "https://www.icloud.com/shortcuts/049455bacd1647d5812e7c8b44c89230",
     "Shortcuts": {
         "👾 Discord": {
             "⏳ Discord Timestamp Generator": {
@@ -65,7 +65,8 @@
         "0.1": "https://www.icloud.com/shortcuts/fa6e2ee8ba914bfba3aeb1dc064ded2e",
         "0.2": "https://www.icloud.com/shortcuts/b1832b6a6098425c9d1b46a5ce8a6c1f",
         "0.3": "https://www.icloud.com/shortcuts/15a3cb1b283c483d9c073825ad6607b0",
-        "0.4": "https://www.icloud.com/shortcuts/7746af48366b473b9020b14af45343ce"
+        "0.4": "https://www.icloud.com/shortcuts/7746af48366b473b9020b14af45343ce",
+        "0.5": "https://www.icloud.com/shortcuts/7746af48366b473b9020b14af45343ce"
     },
     "Changelog": {
         "0.1": {
